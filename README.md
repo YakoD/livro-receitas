@@ -2,11 +2,11 @@
 
 
 
-Ola! Bem vindo ao livro de receitas.
+Olá! Bem vindo ao livro de receitas.
 
 
 
-- Strogonoff
+- Strogonoff de frango :chicken:
 
-- Lasanha de carne moída
+- Lasanha de carne moída :meat_on_bone:
 
