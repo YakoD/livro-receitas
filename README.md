@@ -8,3 +8,5 @@ Ola! Bem vindo ao livro de receitas.
 
 - Strogonoff
 
+- Lasanha de carne moída
+
